@@ -1,0 +1,25 @@
+:root {
+  --primary-color: #e50914;
+  --dark-color: #141414;
+  --light-color: #f4f4f4;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+body {
+  font-family: "Arial", sans-serif;
+}
